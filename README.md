@@ -58,7 +58,6 @@
 
 ##### 用户端图:
 
-![image-20260405223349720](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20260405223349720.png)
 
 ![image-20260405223401393](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/image-20260405223401393.png)
 
